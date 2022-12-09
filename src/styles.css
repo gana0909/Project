@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+html{
+    background-color: #1B1D30;
+}
+html, body { height: 100%; }
+body { margin: 0;}
+@font-face {
+    font-family: "static";
+     src: local("static"), url(./assets/font/static/OpenSans/OpenSans-Light.ttf) format("truetype");
+}
+@font-face {
+    font-family: "static2";
+     src: local("static"), url(./assets/font/static2/OpenSans-SemiBold.ttf) format("truetype");
+}
+@font-face {
+    font-family: "static3";
+     src: local("static"), url(./assets/font/static3/OpenSans-Bold.ttf) format("truetype");
+}
+@font-face{
+    font-family: "static4";
+    src: local("static"), url(./assets/font/static4/OpenSans-Regular.ttf) format("truetype");
+}
